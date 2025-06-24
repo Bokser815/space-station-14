@@ -1226,6 +1226,9 @@
   - type: Vocal
     sounds:
       Unsexed: Kangaroo
+  - type: FootstepModifier
+    footstepSoundCollection:
+      collection: FootstepBounce
   - type: Puller
     needsHands: false
   - type: StaminaDamageOnHit
